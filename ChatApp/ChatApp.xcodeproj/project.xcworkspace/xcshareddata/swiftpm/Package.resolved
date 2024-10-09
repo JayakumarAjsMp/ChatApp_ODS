@@ -1,0 +1,24 @@
+{
+  "originHash" : "b7bc4baa709f4ba8d2b662f0e2caf5f404ca82e3dab6ace12eecb1cc899ab32b",
+  "pins" : [
+    {
+      "identity" : "activityindicatorview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/exyte/ActivityIndicatorView.git",
+      "state" : {
+        "revision" : "9970fd0bb7a05dad0b6566ae1f56937716686b24",
+        "version" : "1.1.1"
+      }
+    },
+    {
+      "identity" : "simpletoast",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sanzaru/SimpleToast.git",
+      "state" : {
+        "revision" : "217c9c38dead686e05896fb3dd652880adedfedf",
+        "version" : "0.9.0"
+      }
+    }
+  ],
+  "version" : 3
+}

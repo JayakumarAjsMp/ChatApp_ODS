@@ -1,0 +1,37 @@
+[
+    {
+        "createdAt": "2024-10-07T10:55:51.831Z",
+        "toUser": "Ajs",
+        "message": "Hi",
+        "fromUser": "A_JS_H",
+        "id": "1"
+    },
+    {
+        "createdAt": "2024-10-08T00:12:42.574Z",
+        "toUser": "A_JS_H",
+        "message": "Hi",
+        "fromUser": "Ajs",
+        "id": "2"
+    },
+    {
+        "createdAt": "2024-10-08T01:39:50.266Z",
+        "toUser": "Ajs",
+        "message": "Hi",
+        "fromUser": "A_JS_H",
+        "id": "3"
+    },
+    {
+        "createdAt": "2024-10-07T18:41:12.755Z",
+        "toUser": "A_JS_H",
+        "message": "Hi",
+        "fromUser": "Ajs",
+        "id": "4"
+    },
+    {
+        "createdAt": "2024-10-07T18:41:12.755Z",
+        "toUser": "Ajs",
+        "message": "Hi",
+        "fromUser": "A_JS_H",
+        "id": "5"
+    }
+]
